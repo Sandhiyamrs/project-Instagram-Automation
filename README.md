@@ -10,6 +10,8 @@ Automate post scheduling, manage analytics, and enhance engagement — all in on
 
 👉 GitHub Repository: https://github.com/Sandhiyamrs/project-Instagram-Automation.git
 
+---
+
 ## 🌈 Features
 - 📸 Auto-schedule Instagram posts with captions and hashtags  
 - 📊 AI-powered analytics dashboard  
@@ -38,7 +40,7 @@ Automate post scheduling, manage analytics, and enhance engagement — all in on
 ### ⚙ Settings2 Page
 ![Settings2 ](image settings2.jpg)
 
-
+---
 
 ## 🛠️ Tech Stack
 | Frontend | Backend | Hosting |
@@ -58,7 +60,7 @@ Automate post scheduling, manage analytics, and enhance engagement — all in on
 
 📧 Email: sandhiyamrs2006@gmail.com
 
-
+---
 
 ⭐ Support
 
