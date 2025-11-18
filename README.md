@@ -23,22 +23,22 @@ Automate post scheduling, manage analytics, and enhance engagement — all in on
 ## 📸 Project Screenshots
 
 ### 🏠 Home Page
-![Home page](image home.jpg)
+[(image home.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/project-Instagram-Automation/main/assets/insta-home.jpg)
 
 ### ⚙ Analytics Page
-![Analytics engage ](image analytics.jpg)
+[(image Analytics.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/project-Instagram-Automation/main/assets/insta-analytics.jpg)
 
 ### 🎨 Scheduler Page
-![scheduler](image scheduler.jpg)
+[(image Scheduler.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/project-Instagram-Automation/main/assets/insta-scheduler.jpg)
 
 ### ⚙ Auto engage Page
-![Auto engage ](image auto engage.jpg)
+[(image Auto engage page.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/project-Instagram-Automation/main/assets/insta-auto-engage.jpg)
 
 ### ⚙ Settings1 Page
-![settings1 page ](image settings1.jpg)
+[(image Settings1.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/project-Instagram-Automation/main/assets/insta-settings1.jpg)
 
 ### ⚙ Settings2 Page
-![Settings2 ](image settings2.jpg)
+[(image Settings2.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/project-Instagram-Automation/main/assets/insta-settings2.jpg)
 
 ---
 
